@@ -36,11 +36,11 @@ python app.py
 ```
 to launch the app. Users will need to answer a flow of questions, from providing the path of bank data sheet to customers financial information, such as shown below. 
 
-![example](images/example.png)
+![example](loan_qualifier_app/Images/example.png)
 
 Upon finishing, users will get a result of their **DTI** (monthly debt to income) ratio, **LTV** (loan to value) ratio, and a number of qualifying loans. Then, users will have the option to save the result list of qualifying banks to a place as they desire in a CSV formated file.
 
-![save_file](images/save_file.png)
+![save_file](loan_qualifier_app/Images/save_file.png)
 
 If there is not any qualifying bank or users choose not to save the result list, they will be exited out of the application.
 
