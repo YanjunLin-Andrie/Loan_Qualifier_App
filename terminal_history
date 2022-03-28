@@ -1,0 +1,507 @@
+Last login: Mon Mar 28 14:30:55 on ttys001
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+(base) Yjun-Lns-MacBook-Pro:~ yjun_ln$ history 50> terminal_history.txt
+    2  git pull
+    3  conda activate dev
+    4  jupyter lab
+    5  conda deactivate
+    6  conda activate dev
+    7  jupyter lab
+    8  conda deactivate
+    9  python hello.py
+   10  python hello.py
+   11  cd desktop
+   12  cd google-python-exercises
+   13  python hello.py
+   14  python hello.py Alice
+   15  cd desktop
+   16  cd google-python-exercises
+   17  python hello.py
+   18  python hello,py Alice
+   19  python
+   20  python --version
+   21  python2 --version
+   22  cd /Users/yjun_ln/Desktop/google-python-exercises
+   23  python3 program1.py
+   24  /usr/local/bin/python3 /Users/yjun_ln/Desktop/google-python-exercises/program2.py
+   25  /usr/local/bin/python3 /Users/yjun_ln/Desktop/google-python-exercises/program2.py
+   26  /usr/local/bin/python3 /Users/yjun_ln/Desktop/google-python-exercises/program2.py
+   27  /usr/local/bin/python3 /Users/yjun_ln/Desktop/google-python-exercises/program2.py
+   28  /usr/local/bin/python3 /Users/yjun_ln/Desktop/google-python-exercises/program2.py
+   29  python
+   30  /usr/local/bin/python3 /Users/yjun_ln/Desktop/google-python-exercises/basic/string1.py
+   31  /usr/local/bin/python3 Untitled-1
+   32  /usr/local/bin/python3 /Users/yjun_ln/Desktop/google-python-exercises/basic/string1.py
+   33  python
+   34  python
+   35  python
+   36  python
+   37  python
+   38  python
+   39  /Users/yjun_ln/opt/anaconda3/bin/jupyter_mac.command ; exit;
+   40  /Users/yjun_ln/opt/anaconda3/bin/jupyter_mac.command ; exit;
+   41  cd desktop
+   42  cd print('hello world').py
+   43  python myexample.py
+   44  python my example.py
+   45  python myexample.py
+   46  /Users/yjun_ln/opt/anaconda3/bin/jupyter_mac.command ; exit;
+   47  /Users/yjun_ln/Desktop/interview
+   48  cd /Users/yjun_ln/Desktop/interview
+   49  python
+   50  python
+   51  /Users/yjun_ln/opt/anaconda3/bin/jupyter_mac.command ; exit;
+   52  /Users/yjun_ln/opt/anaconda3/bin/jupyter_mac.command ; exit;
+   53  python
+   54  python
+   55  python
+   56  python
+   57  python
+   58  python
+   59  python
+   60  python
+   61  python
+   62  pip instal requests
+   63  pip install requests
+   64  pip install pylint
+   65  /Users/yjun_ln/opt/anaconda3/bin/jupyter_mac.command ; exit;
+   66  /Users/yjun_ln/opt/anaconda3/bin/jupyter_mac.command ; exit;
+   67  anaconda-navigator
+   68  pip install requests
+   69  pip install lxml
+   70  pip install bs4
+   71  pip install pillow
+   72  pip install pypdf2
+   73  pip install PyPDF2
+   74  pip install PyPDF2
+   75  pip install ipywidgets
+   76  python
+   77  conda init zsh
+   78  echo $SHELL
+   79  /Users/yjun_ln/opt/anaconda3/bin/jupyter_mac.command ; exit;
+   80  conda --version
+   81  conda update conda
+   82  conda create -n dev python=3.9 anaconda
+   83  python
+   84  /Users/yjun_ln/opt/anaconda3/bin/jupyter_mac.command ; exit;
+   85  /usr/local/bin/python3 /Users/yjun_ln/Desktop/FinTech/FinTech_Workspace/Python_Project/hello_python.py
+   86  /usr/local/bin/python3 /Users/yjun_ln/Desktop/FinTech/FinTech_Workspace/Python_Project/hello_python.py
+   87  /usr/local/bin/python3 /Users/yjun_ln/Desktop/FinTech/FinTech_Workspace/Python_Project/hello_python.py
+   88  cd Desktop
+   89  cd FinTech
+   90  cd /Users/yjun_ln/Desktop/FinTech/FinTech_Workspace/Python_Project
+   91  conda acivate dev
+   92  conda activate dev
+   93  python --version
+   94  code .
+   95  python hello_python.py
+   96  conda deactivate
+   97  cd /Users/yjun_ln/Desktop/FinTech/FinTech_Workspace/Python_Project
+   98  code .
+   99  /usr/local/bin/python3 /Users/yjun_ln/Desktop/FinTech/FinTech_Workspace/Python_Project/hello_python.py
+  100  /usr/local/bin/python3 /Users/yjun_ln/Desktop/FinTech/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  101  /usr/local/bin/python3 /Users/yjun_ln/Desktop/FinTech/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  102  /usr/local/bin/python3 /Users/yjun_ln/Desktop/FinTech/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  103  /usr/local/bin/python3 /Users/yjun_ln/Desktop/FinTech/04_Automating_Equity_Rounds/Solved/automated_equity_rounds.py
+  104  /usr/local/bin/python3 /Users/yjun_ln/Desktop/FinTech/04_Automating_Equity_Rounds/Solved/automated_equity_rounds.py
+  105  /usr/local/bin/python3 /Users/yjun_ln/Desktop/FinTech/04_Automating_Equity_Rounds/Solved/automated_equity_rounds.py
+  106  conda activate dev
+  107  pip -V
+  108  pip freeze
+  109  pip install fire
+  110  pip install questionary
+  111  /usr/local/bin/python3 /Users/yjun_ln/Desktop/FinTech/Module2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  112  /usr/local/bin/python3 /Users/yjun_ln/Desktop/FinTech/Module2/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  113  cd /Users/yjun_ln/Desktop/FinTech/Module2/02_Loan_Qualifier_Filtering_Data/Solved
+  114  python app.py
+  115  cd /Users/yjun_ln/Desktop/FinTech/Module2/02_Loan_Qualifier_Filtering_Data/Unsolved
+  116  python app.py
+  117  cd /Users/yjun_ln/Desktop/FinTech/Module2/02_Loan_Qualifier_Filtering_Data/Unsolved
+  118  python app.py
+  119  python app.py
+  120  pip install fire
+  121  pwd
+  122  python cli.py
+  123  clear
+  124  cd /Users/yjun_ln/Desktop
+  125  python cli.py
+  126  cli.py
+  127  python cli.py
+  128  python cli.py
+  129  python cli.py --pants=True
+  130  /usr/local/bin/python3 /Users/yjun_ln/Desktop/FinTech/Module2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  131  /usr/local/bin/python3 /Users/yjun_ln/Desktop/FinTech/Module2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  132  /usr/local/bin/python3 /Users/yjun_ln/Desktop/FinTech/Module2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  133  /usr/local/bin/python3 /Users/yjun_ln/Desktop/FinTech/Module2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  134  /usr/local/bin/python3 /Users/yjun_ln/Desktop/FinTech/Module2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  135  /usr/local/bin/python3 /Users/yjun_ln/Desktop/FinTech/Module2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  136  clear
+  137  cd /Users/yjun_ln/Desktop/FinTech/Module2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved
+  138  python app.py
+  139  python app.py --credit_score = 750
+  140  clear
+  141  cd /Users/yjun_ln/Desktop/FinTech/Module2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved
+  142  python app.py credit_score = int(750)
+  143  python app.py
+  144  python app.py
+  145  clear
+  146  cd /Users/yjun_ln/Desktop/FinTech/Module2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved
+  147  python app.py --credit_score = 750
+  148  python app.py
+  149  python app.py
+  150  puthon app.py --credit_score=750
+  151  python app.py --credit_score=750
+  152  python app.py --credit_score=750 --debt=5000 --income==60000
+  153  clear
+  154  /Users/yjun_ln/Desktop/FinTech/Module2/01_Adding_Fire_to_the_Loan_Qual
+  155  cd /Users/yjun_ln/Desktop/FinTech/Module2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved
+  156  python app.py ==credit_score=750 --debt=3000 --income==50000
+  157  python app.py ==credit_score=750 --debt=3000 --income==5000
+  158  cd /Users/yjun_ln/Desktop/FinTech/Module2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved
+  159  python app.py credit_score = 750 --debt = 3000 --income = 50000
+  160  clear
+  161  cd /Users/yjun_ln/Desktop/FinTech/Module2/01_Adding_Fire_to_the_Loan_Qualifier_App/Solved
+  162  python app.py credit_score = 750 --debt = 3000 --income = 50000
+  163  clear
+  164  cd /Users/yjun_ln/Desktop/FinTech/Module2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved
+  165  python app.py --credit_score = 750 --income = 50000
+  166  cd /Users/yjun_ln/Desktop/FinTech/Module2/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved
+  167  python app.py --credi_score = 750 --income = 50000
+  168  python app.py --credit_score = 750
+  169  python app.py --credit_score=750
+  170  python app.py --credit_score=750 --debt=3000
+  171  python app.py --credit_score=750 --debt=3000 --income=50000
+  172  python
+  173  pip install questionary
+  174  pwd
+  175  cd desktop
+  176  python dialog.py
+  177  python dialog.py
+  178  python dialog.py
+  179  python dialog.py
+  180  /usr/local/bin/python3 /Users/yjun_ln/Desktop/dialog.py
+  181  /usr/local/bin/python3 /Users/yjun_ln/Desktop/dialog.py
+  182  /usr/local/bin/python3 /Users/yjun_ln/Desktop/dialog.py
+  183  /usr/local/bin/python3 /Users/yjun_ln/Desktop/dialog.py
+  184  /usr/local/bin/python3 /Users/yjun_ln/Desktop/dialog.py
+  185  /usr/local/bin/python3 /Users/yjun_ln/Desktop/dialog.py
+  186  /usr/local/bin/python3 /Users/yjun_ln/Desktop/dialog.py
+  187  /usr/local/bin/python3 /Users/yjun_ln/Desktop/dialog.py
+  188  /usr/local/bin/python3 /Users/yjun_ln/Desktop/FinTech/Module2/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  189  cd /Users/yjun_ln/Desktop/FinTech/Module2/02_Adding_questionary_to_Loan_Qualifier/Unsolved
+  190  python app.py --credit_score=750 --debt=5000 --income=20000
+  191  clear
+  192  cd /Users/yjun_ln/Desktop/FinTech/Module2/02_Adding_questionary_to_Loan_Qualifier/Unsolved
+  193  python app.py
+  194  /usr/local/bin/python3 /Users/yjun_ln/Desktop/FinTech/Module2/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  195  conda list
+  196  conda activate dev
+  197  conda list
+  198  cd /Users/yjun_ln/Desktop/dialog.py
+  199  python dialog.py
+  200  cd desktop
+  201  python dialog.py
+  202  python dialog.py
+  203  git config --global user.name yanjun lin
+  204  git config --global user.email linlinear@gmail.com
+  205  git config --list
+  206  clear
+  207  git config --global user.mane yanjun.lin
+  208  git config --global user.email linlinear@gmail.com
+  209  git config --list
+  210  cd desktop
+  211  git clone https://github.com/linlinear/Version-Control-Practice.git
+  212  PWD
+  213  cd Version-Control-Practice
+  214  git status
+  215  git add README.md
+  216  git status
+  217  cd
+  218  touch new_file.txt
+  219  ls
+  220  cd Music
+  221  ls
+  222  ..
+  223  /..
+  224  /..
+  225  cd Yjun-Lns-MacBook-Pro
+  226  ../
+  227  cd ..
+  228  rm new_file.txt
+  229  cd desktop
+  230  cd Version-Control-Practice
+  231  touch new_file.txt
+  232  git status
+  233  git add new_file.txt
+  234  git status
+  235  touch file1.txt
+  236  touch file2.txt
+  237  touch file{3.4.5}.txt
+  238  ls
+  239  rm file{3.4.5}.txt
+  240  ls
+  241  rm file1.txt file2.txt
+  242  ls
+  243  touch file1.txt file2.txt
+  244  ls
+  245  git status
+  246  git add .file1.txt file2.txt
+  247  git status
+  248  git add file1.txt file2.txt
+  249  git status
+  250  rm file1.txt
+  251  gt status
+  252  git status
+  253  ls
+  254  touch file1.txt
+  255  git status
+  256  git commit -m"edited README file and added 3 text files"
+  257  git status
+  258  git push
+  259  git push
+  260  git push
+  261  git clone
+  262  clear
+  263  git clone https://github.com/YanjunLin-Andrie/README_test.git
+  264  ls
+  265  clear
+  266  % mv ~//Users/yjun_ln/README_test ~Desktop/README_test
+  267  mv README_test Desktop
+  268  cd /Users/yjun_ln/Desktop/FinTech/Module2/02_Adding_questionary_to_Loan_Qualifier/Unsolved
+  269  python app.py
+  270  clear
+  271  cd /Users/yjun_ln/Desktop/FinTech/Module2/02_Adding_questionary_to_Loan_Qualifier/Unsolved
+  272  cd /Users/yjun_ln/Desktop/FinTech/Module2/02_Adding_questionary_to_Loan_Qualifier/Unsolved
+  273  python app.py
+  274  clear
+  275  cd /Users/yjun_ln/Desktop/FinTech/Module2/02_Adding_questionary_to_Loan_Qualifier/Unsolved
+  276  python.py
+  277  clear
+  278  cd /Users/yjun_ln/Desktop/FinTech/Module2/02_Adding_questionary_to_Loan_Qualifier/Unsolved
+  279  python app.py
+  280  clear
+  281  cd /Users/yjun_ln/Desktop/FinTech/Module2/02_Adding_questionary_to_Loan_Qualifier/Unsolved
+  282  python.app.py
+  283  clear
+  284  cd /Users/yjun_ln/Desktop/FinTech/Module2/02_Adding_questionary_to_Loan_Qualifier/Unsolved
+  285  python app.py
+  286  cd /Users/yjun_ln/Desktop/FinTech/Module2/02_Adding_questionary_to_Loan_Qualifier/Unsolved
+  287  python app.py
+  288  git clone https://github.com/YanjunLin-Andrie/test.git
+  289  git add README_example.md
+  290  git status
+  291  ls
+  292  rm test
+  293  rm -r test
+  294  clear
+  295  pwd
+  296  rm-r test
+  297  rm -r test
+  298  clear
+  299  cd desktop
+  300  git clone https://github.com/YanjunLin-Andrie/test.git
+  301  git status
+  302  git add README_example.md
+  303  git add README_example.md
+  304  git status
+  305  cd test
+  306  git status
+  307  git add README_example.md
+  308  git status
+  309  git commit -m "New Test"
+  310  git status
+  311  cd desktop
+  312  git clone https://github.com/YanjunLin-Andrie/Loan-Qualifier.git
+  313  git status
+  314  cd Loan-Qualifier
+  315  git status
+  316  git add README.md app.py data/ images/ qualifier
+  317  git status
+  318  git add .DS_Store
+  319  git status
+  320  git commit -m "upload files"
+  321  git status
+  322  git push
+  323  /usr/local/bin/python3 Untitled-1
+  324  cd desktop
+  325  python myPERSTAT.py
+  326  cd desktop
+  327  python myperstat.py
+  328  python myperstat.py
+  329  cd desktop
+  330  python myperstat.py
+  331  python myperstat.py
+  332  python myperstat.py
+  333  python myperstat.py
+  334  python myperstat.py
+  335  python myperstat.py
+  336  python myperstat.py
+  337  cd desktop
+  338  python myperstat.py
+  339  python myperstat.py
+  340  git clone https://github.com/YanjunLin-Andrie/myPERSTAT.git
+  341  git add myperstat
+  342  cd myperstat
+  343  git add myperstat
+  344  git status
+  345  git add myperstat.py
+  346  git status
+  347  git commit myperstat.py
+  348  git status
+  349  git add myPERSTAT.py
+  350  git status
+  351  git commit -m "tried to add counter for each category"
+  352  git status
+  353  git push
+  354  cd desktop/myperstat
+  355  python myperstat.py
+  356  cd desktop/myperstat
+  357  python myperstat.py
+  358  python myperstat.py
+  359  python myperstat.py
+  360  python myperstat.py
+  361  python myperstat.py
+  362  python myperstat.py
+  363  python myperstat.py
+  364  python myperstat.py
+  365  python myperstat.py
+  366  python myperstat.py
+  367  python myperstat.py
+  368  python myperstat.py
+  369  python myperstat.py
+  370  python myperstat.py
+  371  python myperstat.py
+  372  python myperstat.py
+  373  python myperstat.py
+  374  cd desktop/myperstat
+  375  python myperstat.py
+  376  cd desktop/myperstat
+  377  python myperstat.py
+  378  python myperstat.py
+  379  python myperstat.py
+  380  python myperstat.py
+  381  python myperstat.py
+  382  cd desktop
+  383  python counts.py
+  384  python counts.py
+  385  cd desktop
+  386  cd Desktop
+  387  cd ..
+  388  python counts.py
+  389  cd myperstat
+  390  python myperstat.py
+  391  cd myperstat
+  392  cd desktop/myperstat
+  393  python myperstat.py
+  394  cd desktop myperstat
+  395  cd desktop/myperstat
+  396  cd myperstat
+  397  python myperstat.py
+  398  python myperstat.py
+  399  python myperstat.py
+  400  python myperstat.py
+  401  python myperstat.py
+  402  python myperstat.py
+  403  python myperstat.py
+  404  python myperstat.py
+  405  python myperstat.py
+  406  python myperstat.py
+  407  python myperstat.py
+  408  python myperstat.py
+  409  python myperstat.py
+  410  python myperstat.py
+  411  python myperstat.py
+  412  python myperstat.py
+  413  cd /Users/yjun_ln/Desktop/Starter_Code/loan_qualifier_app
+  414  python app.py
+  415  cd /Users/yjun_ln/Desktop/FinTech/Module2/Loan Qualifier
+  416  python app.py
+  417  cd /Users/yjun_ln/Desktop/Starter_Code/loan_qualifier_app
+  418  python app.py
+  419  cd /Users/yjun_ln/Desktop/Starter_Code/loan_qualifier_app
+  420  python app.py
+  421  python app.py
+  422  clear
+  423  python app.py
+  424  clear
+  425  python app.py
+  426  python app.py
+  427  clear
+  428  python app.py
+  429  python app.py
+  430  clear
+  431  python app.py
+  432  clear
+  433  cd ./data/daily_rate_sheet.csv
+  434  python app.py
+  435  python app.py
+  436  clear
+  437  python app.py
+  438  python app.py
+  439  python app.py
+  440  python app.py
+  441  python app.py
+  442  python app.py
+  443  python app.py
+  444  python app.py
+  445  python app.py
+  446  python app.py
+  447  python app.py
+  448  python app.py
+  449  python app.py
+  450  python app.py
+  451  cd desktop
+  452  git clone https://github.com/YanjunLin-Andrie/Loan_Qualifier_App.git
+  453  git status
+  454  cd loan_qualifier_app
+  455  git status
+  456  git add loan_qualifier_app
+  457  git status
+  458  git commit -m "Saving directory option added"
+  459  git status
+  460  git push
+  461  /Users/yjun_ln/Desktop/FinTech/Starter_Code/Loan_Qualifier_App_local
+  462  cd /Users/yjun_ln/Desktop/FinTech/Starter_Code/Loan_Qualifier_App_local
+  463  python app.py
+  464  cd /Users/yjun_ln/Desktop/FinTech/Starter_Code/Loan_Qualifier_App_local
+  465  python app.py
+  466  cd /Users/yjun_ln/Desktop/FinTech/Starter_Code/Loan_Qualifier_App_local
+  467  python app.py
+  468  python app.py
+  469  python app.py
+  470  python app.py
+  471  cd /Users/yjun_ln/Desktop/FinTech/Starter_Code/Loan_Qualifier_App_local
+  472  python app.py
+  473  cd desktop
+  474  /..
+  475  ..
+  476  ../
+  477  cd desktop
+  478  clear
+  479  cd desktop
+  480  cd Desktop
+  481  wpd
+  482  pwd
+  483  cd Desktop
+  484  pwd
+  485  cd desktop
+  486  git clone
+  487  clear
+  488  pwd
+  489  git clone https://github.com/YanjunLin-Andrie/Loan_Qualifier_App.git
+  490  cd loan_qualifier_app
+  491  git add loan_qualifier_app
+  492  git commit -m"README file updated"
+  493  git status
+  494  git add Loan_Qualifier_App/Images/
+  495  git status
+  496  git add Loan_Qualifier_App/.gitignore
+  497  git status
+  498  git commit -m "README file updated"
+  499  git status
+  500  git push
+  501  history 50> terminal_history.txt
+(base) Yjun-Lns-MacBook-Pro:~ yjun_ln$ 
