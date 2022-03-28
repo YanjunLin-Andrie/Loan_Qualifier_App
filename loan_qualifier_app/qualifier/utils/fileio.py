@@ -28,3 +28,18 @@ def load_csv(csvpath):
         for row in csvreader:
             data.append(row)
     return data
+
+def save_csv(output_path, data, header=None):
+    """Saves the CSV file to the path chosen by user.
+
+    Args:
+        csvpath (Path): a CSV file path given by user.
+        data (list of lists): A list of the rows of data for the CSV file.
+        header (list): An optional header for the CSV.
+
+    """
+    header_list = ["Lender", "Max Loan Amount", "Max LTV", "MAX DTI", "Min Credit Score", "Interest Rate"]
+    with open(output_path, "w", newline="") as csvfile:
+        csvwriter = csv.writer(csvfile, delimiter=',')
+        csvwriter.writerow(header_list)
+        csvwriter.writerows(data)
