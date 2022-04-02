@@ -29,12 +29,12 @@ Before running the application, first, install the following dependencies in Ter
 
 ## Usage
 
-To use the Loan Qualifier application, users will conduct a series of **CLI** (Command Line Interfaces) interactions. Simply clone the repositor. Open Terminal or Bash and use `cd` to change directory to where the **app.py** file is located. Then type
+To use the Loan Qualifier application, users will conduct a series of **CLI** (Command Line Interface) interactions. Simply clone the repositor. Open Terminal or Bash and use `cd` to change directory to where the **app.py** file is located. Then type
 
 ```python
 python app.py
 ```
-to launch the app. Users will need to answer a flow of questions, from providing the path of bank data sheet to customers financial information, such as shown below. 
+to launch the app. Users will need to answer a flow of questions, from providing the path of bank data sheet to customers' financial information, such as shown below. 
 
 ![example](loan_qualifier_app/Images/example.png)
 
