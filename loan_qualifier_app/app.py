@@ -149,7 +149,7 @@ def run():
     # If there isn't any qualifying loan from the filtered list:
     else:
         # Deliver the message that "Can't find qualified loans", and exit.
-        sys.exit("Can't find any qualified loans. Thank you for using the Loan Qualifier!")
+        sys.exit("Sorry. Can't find any qualified loans. Thank you for using the Loan Qualifier!")
 
 
 if __name__ == "__main__":
