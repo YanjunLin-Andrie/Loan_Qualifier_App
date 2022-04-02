@@ -135,9 +135,9 @@ def run():
     # If there are at least one qualifying loan from the filtered list
     if qualifying_loans != []:
         # Provide options to the user to save or not save the loans list by letting them choos Y or N.
-        save = questionary.text("Do you want to save the list of qualifying loans? Y/N: ").ask()
+        save = questionary.confirm("Do you want to save the list of qualifying loans?: ").ask()
         # If the user want to save the file:
-        if save.upper() == "Y":
+        if save == True:
             # Save qualifying loans function will be put in use
             save_qualifying_loans(qualifying_loans)
             # Deliver a message to inform the user that the result can be find at the location of their choice
