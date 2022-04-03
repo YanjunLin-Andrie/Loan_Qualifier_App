@@ -132,24 +132,26 @@ def run():
     )
 
     # Provide the user options to save qualifying loans if there are qualifying loans
-    # If there are at least one qualifying loan from the filtered list
-    if qualifying_loans != []:
-        # Provide options to the user to save or not save the loans list by letting them choos Y or N.
-        save = questionary.confirm("Do you want to save the list of qualifying loans?: ").ask()
-        # If the user want to save the file:
-        if save == True:
-            # Save qualifying loans function will be put in use
-            save_qualifying_loans(qualifying_loans)
-            # Deliver a message to inform the user that the result can be find at the location of their choice
-            sys.exit("Please find the result list at the location of your choice. Thank you for using the Loan Qualifier!")
-        # If the user doesn't want to save the list:
-        else:
-            # Deliver the message of "Thank you" and exit the program
-            sys.exit("Thank you for using the Loan Qualifier!")
+    
     # If there isn't any qualifying loan from the filtered list:
-    else:
+    if not qualifying_loans:
         # Deliver the message that "Can't find qualified loans", and exit.
         sys.exit("Sorry. Can't find any qualified loans. Thank you for using the Loan Qualifier!")
+
+    # If there are at least one qualifying loan from the filtered list
+    # Provide options to the user to save or not save the loans list by letting them choos Y or N.
+    save = questionary.confirm("Do you want to save the list of qualifying loans? ").ask()
+        # If the user want to save the file:
+    if save:
+        # Save qualifying loans function will be put in use
+        save_qualifying_loans(qualifying_loans)
+        # Deliver a message to inform the user that the result can be find at the location of their choice
+        sys.exit("Please find the result list at the location of your choice. Thank you for using the Loan Qualifier!")
+    # If the user doesn't want to save the list:
+    else:
+        # Deliver the message of "Thank you" and exit the program
+        sys.exit("Thank you for using the Loan Qualifier!")
+        
 
 
 if __name__ == "__main__":
