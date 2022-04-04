@@ -1,7 +1,7 @@
 ![](https://www.mtgprofessor.com/images/canstockphoto18796600.jpg)
 # Loan Qualifier App
 
->This App is designed to be mainly used by loan institutions and their customers to quickly narrowing down a list of potential banks that would approve their loan applications based on customer's **credit score**, **current debt**, **monthly income**, **loan amount**, and their **current home value**.
+>This App is designed to be mainly used by loan institutions and their customers to quickly narrow down a list of potential banks that would approve their loan applications based on customer's **credit score**, **current debt**, **monthly income**, **loan amount**, and their **current home value**.
 ---
 
 ## Technologies
