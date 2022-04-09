@@ -48,7 +48,9 @@ If there is not any qualifying bank or users choose not to save the result list,
 
 ## Contributors
 
-Brought you by **Yanjun Lin Andrie**
+**UC Berkeley Extension**
+
+**Yanjun Lin Andrie**
 
 * yanjun.lin.andrie@gmail.com
 
